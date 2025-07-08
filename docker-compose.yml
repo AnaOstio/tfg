@@ -1,0 +1,92 @@
+services:
+  mongodb2:
+    image: mongo:7.0
+    container_name: mongodb2
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: admin
+      MONGO_INITDB_ROOT_PASSWORD: password123
+      MONGO_INITDB_DATABASE: fastapi
+    volumes:
+      - mongodb_data:/data/db
+    ports:
+      - "27017:27017"
+    restart: unless-stopped
+    networks:
+      - my_network
+
+  users:
+    build: 
+      context: users/
+      dockerfile: Dockerfile
+    container_name: users
+    env_file: 
+      - users/.env
+    ports:
+      - "3000:3000"
+    depends_on:
+      - mongodb2
+    networks:
+      - my_network
+
+  skills_outcomes:
+    build: 
+      context: skills_outcomes/
+      dockerfile: Dockerfile
+    container_name: skills_outcomes
+    env_file: 
+      - skills_outcomes/.env
+    ports:
+      - "3001:3001"
+    depends_on:
+      - mongodb2
+    networks:
+      - my_network
+  
+  title_memories:
+    build: 
+      context: title_memories/
+      dockerfile: Dockerfile
+    container_name: title_memories
+    env_file: 
+      - title_memories/.env
+    ports:
+      - "3003:3003"
+    depends_on:
+      - mongodb2
+    networks:
+      - my_network
+    
+  subjects:
+    build: 
+      context: subjects/
+      dockerfile: Dockerfile
+    container_name: subjects
+    env_file: 
+      - subjects/.env
+    ports:
+      - "3002:3002"
+    depends_on:
+      - mongodb2
+    networks:
+      - my_network
+    
+  client:
+    build: 
+      context: client/
+      dockerfile: Dockerfile
+    container_name: client
+    ports:
+      - "5173:5173"
+    depends_on:
+      - users
+      - skills_outcomes
+      - title_memories
+      - subjects
+    networks:
+      - my_network
+
+volumes:
+  mongodb_data:
+
+networks:
+  my_network:
