@@ -8,6 +8,7 @@ services:
       MONGO_INITDB_DATABASE: fastapi
     volumes:
       - mongodb_data:/data/db
+      - ./data:/docker-entrypoint-initdb.d:ro
     ports:
       - "27017:27017"
     restart: unless-stopped

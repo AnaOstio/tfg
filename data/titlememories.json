@@ -1,0 +1,2575 @@
+[{
+  "_id": {
+    "$oid": "686d5e1b71a89558b4906e68"
+  },
+  "titleCode": "4",
+  "universities": [
+    "Universidad de Barcelona",
+    "Universidad Autónoma de Madrid"
+  ],
+  "centers": [
+    "Facultad de Biología",
+    "Facultad de Ciencias"
+  ],
+  "name": "Grado en Bioquímica y Biotecnología",
+  "academicLevel": "Grado",
+  "branch": "Ciencias de la Salud",
+  "academicField": "Bioquímica y biotecnología",
+  "status": "Activo",
+  "yearDelivery": 2023,
+  "totalCredits": 240,
+  "distributedCredits": {
+    "Básicos": 60,
+    "Optativa": 30,
+    "Obligatoria": 150,
+    "Trabajo Fin de Carrera": 6
+  },
+  "skills": [
+    "686d5e1b5537f81cedafb3eb",
+    "686d5e1b5537f81cedafb3ec",
+    "686d5e1b5537f81cedafb3ed",
+    "686d5e1b5537f81cedafb3ee",
+    "686d5e1b5537f81cedafb3ef",
+    "686d5e1b5537f81cedafb3f0",
+    "686d5e1b5537f81cedafb3f1",
+    "686d5e1b5537f81cedafb3f2",
+    "686d5e1b5537f81cedafb3f3",
+    "686d5e1b5537f81cedafb3f4"
+  ],
+  "learningOutcomes": [
+    {
+      "686d5e1b5537f81cedafb3f6": [
+        "Diseño de experimentos bioquímicos"
+      ]
+    },
+    {
+      "686d5e1b5537f81cedafb3f7": [
+        "Técnicas de biología molecular"
+      ]
+    },
+    {
+      "686d5e1b5537f81cedafb3f8": [
+        "Análisis espectrofotométrico"
+      ]
+    },
+    {
+      "686d5e1b5537f81cedafb3f9": [
+        "Cromatografía y separación de moléculas"
+      ]
+    },
+    {
+      "686d5e1b5537f81cedafb3fa": [
+        "Cultivo celular y microbiológico"
+      ]
+    },
+    {
+      "686d5e1b5537f81cedafb3fb": [
+        "Bioinformática aplicada"
+      ]
+    },
+    {
+      "686d5e1b5537f81cedafb3fc": [
+        "Modelización molecular"
+      ]
+    },
+    {
+      "686d5e1b5537f81cedafb3fd": [
+        "Gestión de la calidad en laboratorio"
+      ]
+    },
+    {
+      "686d5e1b5537f81cedafb3fe": [
+        "Seguridad y normativa laboral"
+      ]
+    },
+    {
+      "686d5e1b5537f81cedafb3ff": [
+        "Comunicación científica"
+      ]
+    }
+  ],
+  "userId": "686d4dd5b6f71aaaccb05855",
+  "createdAt": {
+    "$date": "2025-07-08T18:06:19.302Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-08T18:06:19.302Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686d5e1b71a89558b4906e6a"
+  },
+  "titleCode": "5",
+  "universities": [
+    "Universidad de Salamanca",
+    "Universitat de València (Estudi General)"
+  ],
+  "centers": [
+    "Facultad de Biología",
+    "Facultad de Ciencias Biológicas"
+  ],
+  "name": "Máster Universitario en Ingeniería Civil y Urbanismo",
+  "academicLevel": "Máster",
+  "branch": "Ingeniería y Arquitectura",
+  "academicField": "Arquitectura, construcción, edificación y urbanismo, e ingeniería civil",
+  "status": "Activo",
+  "yearDelivery": 2022,
+  "totalCredits": 60,
+  "distributedCredits": {
+    "Básicos": 12,
+    "Optativa": 6,
+    "Obligatoria": 30,
+    "Trabajo Fin de Carrera": 12
+  },
+  "skills": [
+    "686d5e1b5537f81cedafb401",
+    "686d5e1b5537f81cedafb402",
+    "686d5e1b5537f81cedafb403",
+    "686d5e1b5537f81cedafb404",
+    "686d5e1b5537f81cedafb405",
+    "686d5e1b5537f81cedafb406",
+    "686d5e1b5537f81cedafb407",
+    "686d5e1b5537f81cedafb408",
+    "686d5e1b5537f81cedafb409",
+    "686d5e1b5537f81cedafb40a"
+  ],
+  "learningOutcomes": [
+    {
+      "686d5e1b5537f81cedafb40c": [
+        "Modelización BIM"
+      ]
+    },
+    {
+      "686d5e1b5537f81cedafb40d": [
+        "Diseño estructural avanzado"
+      ]
+    },
+    {
+      "686d5e1b5537f81cedafb40e": [
+        "Gestión de proyectos"
+      ]
+    },
+    {
+      "686d5e1b5537f81cedafb40f": [
+        "Ingeniería de transporte"
+      ]
+    },
+    {
+      "686d5e1b5537f81cedafb410": [
+        "Topografía y geotecnia"
+      ]
+    },
+    {
+      "686d5e1b5537f81cedafb411": [
+        "Urbanismo sostenible"
+      ]
+    },
+    {
+      "686d5e1b5537f81cedafb412": [
+        "Hidráulica aplicada"
+      ]
+    },
+    {
+      "686d5e1b5537f81cedafb413": [
+        "Control de calidad"
+      ]
+    },
+    {
+      "686d5e1b5537f81cedafb414": [
+        "Software de simulación"
+      ]
+    },
+    {
+      "686d5e1b5537f81cedafb415": [
+        "Comunicación técnica"
+      ]
+    }
+  ],
+  "userId": "686d4dd5b6f71aaaccb05855",
+  "createdAt": {
+    "$date": "2025-07-08T18:06:19.362Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-08T18:06:19.362Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686d5e1b71a89558b4906e6c"
+  },
+  "titleCode": "6",
+  "universities": [
+    "Universidad Pablo de Olavide",
+    "Universidad de Murcia"
+  ],
+  "centers": [
+    "Facultad de Ciencias Experimentales",
+    "Facultad de Enfermería"
+  ],
+  "name": "Grado en Enfermería",
+  "academicLevel": "Grado",
+  "branch": "Ciencias de la Salud",
+  "academicField": "Enfermería",
+  "status": "Activo",
+  "yearDelivery": 2021,
+  "totalCredits": 240,
+  "distributedCredits": {
+    "Básicos": 60,
+    "Optativa": 30,
+    "Obligatoria": 144,
+    "Trabajo Fin de Carrera": 6
+  },
+  "skills": [
+    "686d5e1b5537f81cedafb417",
+    "686d5e1b5537f81cedafb418",
+    "686d5e1b5537f81cedafb419",
+    "686d5e1b5537f81cedafb41a",
+    "686d5e1b5537f81cedafb41b",
+    "686d5e1b5537f81cedafb41c",
+    "686d5e1b5537f81cedafb41d",
+    "686d5e1b5537f81cedafb41e",
+    "686d5e1b5537f81cedafb41f",
+    "686d5e1b5537f81cedafb420"
+  ],
+  "learningOutcomes": [
+    {
+      "686d5e1b5537f81cedafb422": [
+        "Evaluación y diagnóstico"
+      ]
+    },
+    {
+      "686d5e1b5537f81cedafb423": [
+        "Farmacología clínica"
+      ]
+    },
+    {
+      "686d5e1b5537f81cedafb424": [
+        "Cuidados básicos de enfermería"
+      ]
+    },
+    {
+      "686d5e1b5537f81cedafb425": [
+        "Cuidados pediátricos",
+        "Cuidados geriátricos"
+      ]
+    },
+    {
+      "686d5e1b5537f81cedafb426": [
+        "Comunicación terapéutica"
+      ]
+    },
+    {
+      "686d5e1b5537f81cedafb427": [
+        "Cuidados críticos"
+      ]
+    },
+    {
+      "686d5e1b5537f81cedafb428": [
+        "Gestión de recursos sanitarios"
+      ]
+    },
+    {
+      "686d5e1b5537f81cedafb429": [
+        "Ética y legislación sanitaria"
+      ]
+    },
+    {
+      "686d5e1b5537f81cedafb42a": [
+        "Investigación en enfermería"
+      ]
+    },
+    {
+      "686d5e1b5537f81cedafb42b": [
+        "Comunicación terapéutica"
+      ]
+    }
+  ],
+  "userId": "686d4dd5b6f71aaaccb05855",
+  "createdAt": {
+    "$date": "2025-07-08T18:06:19.384Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-08T18:06:19.384Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686d5e1b71a89558b4906e6e"
+  },
+  "titleCode": "7",
+  "universities": [
+    "Universidad Complutense de Madrid",
+    "Universidad Autónoma de Barcelona"
+  ],
+  "centers": [
+    "Campus de Moncloa",
+    "Facultad de Biociencias"
+  ],
+  "name": "Doctorado en Física y Astronomía",
+  "academicLevel": "Doctorado",
+  "branch": "Ciencias",
+  "academicField": "Física y astronomía",
+  "status": "Activo",
+  "yearDelivery": 2020,
+  "totalCredits": 180,
+  "distributedCredits": {
+    "Básicos": 30,
+    "Optativa": 30,
+    "Obligatoria": 96,
+    "Trabajo Fin de Carrera": 24
+  },
+  "skills": [
+    "686d5e1b5537f81cedafb42d",
+    "686d5e1b5537f81cedafb42e",
+    "686d5e1b5537f81cedafb42f",
+    "686d5e1b5537f81cedafb430",
+    "686d5e1b5537f81cedafb431",
+    "686d5e1b5537f81cedafb432",
+    "686d5e1b5537f81cedafb433",
+    "686d5e1b5537f81cedafb434",
+    "686d5e1b5537f81cedafb435",
+    "686d5e1b5537f81cedafb436"
+  ],
+  "learningOutcomes": [
+    {
+      "686d5e1b5537f81cedafb438": [
+        "Técnicas de espectroscopía"
+      ]
+    },
+    {
+      "686d5e1b5537f81cedafb439": [
+        "Simulación numérica"
+      ]
+    },
+    {
+      "686d5e1b5537f81cedafb43a": [
+        "Astrofísica observacional"
+      ]
+    },
+    {
+      "686d5e1b5537f81cedafb43b": [
+        "Óptica cuántica"
+      ]
+    },
+    {
+      "686d5e1b5537f81cedafb43c": [
+        "Instrumentación científica"
+      ]
+    },
+    {
+      "686d5e1b5537f81cedafb43d": [
+        "Análisis de datos masivos"
+      ]
+    },
+    {
+      "686d5e1b5537f81cedafb43e": [
+        "Principios de relatividad y cosmología"
+      ]
+    },
+    {
+      "686d5e1b5537f81cedafb43f": [
+        "Dinámica de plasmas"
+      ]
+    },
+    {
+      "686d5e1b5537f81cedafb440": [
+        "Educación y divulgación científica"
+      ]
+    },
+    {
+      "686d5e1b5537f81cedafb441": [
+        "Gestión de proyectos de I+D"
+      ]
+    }
+  ],
+  "userId": "686d4dd5b6f71aaaccb05855",
+  "createdAt": {
+    "$date": "2025-07-08T18:06:19.411Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-08T18:06:19.411Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686d5e1b71a89558b4906e70"
+  },
+  "titleCode": "8",
+  "universities": [
+    "Universitat Politècnica de València",
+    "Universidad Pontificia de Salamanca"
+  ],
+  "centers": [
+    "Departamento de Informática de Sistemas y Computadores",
+    "Facultad de Informática"
+  ],
+  "name": "Grado en Ingeniería Informática y de Sistemas",
+  "academicLevel": "Grado",
+  "branch": "Ingeniería y Arquitectura",
+  "academicField": "Ing. informática y de sistemas",
+  "status": "Activo",
+  "yearDelivery": 2023,
+  "totalCredits": 240,
+  "distributedCredits": {
+    "Básicos": 60,
+    "Optativa": 30,
+    "Obligatoria": 144,
+    "Trabajo Fin de Carrera": 6
+  },
+  "skills": [
+    "686d5e1b5537f81cedafb443",
+    "686d5e1b5537f81cedafb444",
+    "686d5e1b5537f81cedafb445",
+    "686d5e1b5537f81cedafb446",
+    "686d5e1b5537f81cedafb447",
+    "686d5e1b5537f81cedafb448",
+    "686d5e1b5537f81cedafb449",
+    "686d5e1b5537f81cedafb44a",
+    "686d5e1b5537f81cedafb44b",
+    "686d5e1b5537f81cedafb44c"
+  ],
+  "learningOutcomes": [
+    {
+      "686d5e1b5537f81cedafb44e": [
+        "Programación en Python"
+      ]
+    },
+    {
+      "686d5e1b5537f81cedafb44f": [
+        "Estructuras de datos y algoritmos"
+      ]
+    },
+    {
+      "686d5e1b5537f81cedafb450": [
+        "Bases de datos relacionales"
+      ]
+    },
+    {
+      "686d5e1b5537f81cedafb451": [
+        "Redes y comunicaciones"
+      ]
+    },
+    {
+      "686d5e1b5537f81cedafb452": [
+        "Ingeniería de software"
+      ]
+    },
+    {
+      "686d5e1b5537f81cedafb453": [
+        "Sistemas operativos"
+      ]
+    },
+    {
+      "686d5e1b5537f81cedafb454": [
+        "Computación en la nube"
+      ]
+    },
+    {
+      "686d5e1b5537f81cedafb455": [
+        "Ciberseguridad"
+      ]
+    },
+    {
+      "686d5e1b5537f81cedafb456": [
+        "Inteligencia artificial"
+      ]
+    },
+    {
+      "686d5e1b5537f81cedafb457": [
+        "Comunicación técnica"
+      ]
+    }
+  ],
+  "userId": "686d4dd5b6f71aaaccb05855",
+  "createdAt": {
+    "$date": "2025-07-08T18:06:19.436Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-08T18:06:19.436Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686d5e1b71a89558b4906e72"
+  },
+  "titleCode": "9",
+  "universities": [
+    "Universidad de Zaragoza",
+    "Universidad Nacional de Educación a Distancia"
+  ],
+  "centers": [
+    "Escuela de Doctorado de la Universidad de Zaragoza",
+    "Facultad de Ciencias"
+  ],
+  "name": "Máster Universitario en Educación y Tecnología",
+  "academicLevel": "Máster",
+  "branch": "Ciencias Sociales y Jurídicas",
+  "academicField": "C. de la educación",
+  "status": "Activo",
+  "yearDelivery": 2022,
+  "totalCredits": 60,
+  "distributedCredits": {
+    "Básicos": 12,
+    "Optativa": 12,
+    "Obligatoria": 24,
+    "Trabajo Fin de Carrera": 12
+  },
+  "skills": [
+    "686d5e1b5537f81cedafb459",
+    "686d5e1b5537f81cedafb45a",
+    "686d5e1b5537f81cedafb45b",
+    "686d5e1b5537f81cedafb45c",
+    "686d5e1b5537f81cedafb45d",
+    "686d5e1b5537f81cedafb45e",
+    "686d5e1b5537f81cedafb45f",
+    "686d5e1b5537f81cedafb460",
+    "686d5e1b5537f81cedafb461",
+    "686d5e1b5537f81cedafb462"
+  ],
+  "learningOutcomes": [
+    {
+      "686d5e1b5537f81cedafb464": [
+        "Diseño instruccional"
+      ]
+    },
+    {
+      "686d5e1b5537f81cedafb465": [
+        "E-learning"
+      ]
+    },
+    {
+      "686d5e1b5537f81cedafb466": [
+        "Evaluación formativa y sumativa"
+      ]
+    },
+    {
+      "686d5e1b5537f81cedafb467": [
+        "Gamificación"
+      ]
+    },
+    {
+      "686d5e1b5537f81cedafb468": [
+        "Herramientas TIC"
+      ]
+    },
+    {
+      "686d5e1b5537f81cedafb469": [
+        "Inclusión educativa"
+      ]
+    },
+    {
+      "686d5e1b5537f81cedafb46a": [
+        "Gestión de proyectos educativos"
+      ]
+    },
+    {
+      "686d5e1b5537f81cedafb46b": [
+        "Competencias digitales"
+      ]
+    },
+    {
+      "686d5e1b5537f81cedafb46c": [
+        "Investigación educativa"
+      ]
+    },
+    {
+      "686d5e1b5537f81cedafb46d": [
+        "Comunicación institucional"
+      ]
+    }
+  ],
+  "userId": "686d4dd5b6f71aaaccb05855",
+  "createdAt": {
+    "$date": "2025-07-08T18:06:19.457Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-08T18:06:19.457Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686d5e2f71a89558b4906e78"
+  },
+  "titleCode": "10",
+  "universities": [
+    "Universidad de Sevilla",
+    "Universidad de Málaga"
+  ],
+  "centers": [
+    "Centro de Enfermería Virgen del Rocío",
+    "Escuela de Ingenierías Industriales"
+  ],
+  "name": "Grado en Matemáticas y estadística",
+  "academicLevel": "Grado",
+  "branch": "Ciencias",
+  "academicField": "Matemáticas y estadística",
+  "status": "Activo",
+  "yearDelivery": 2023,
+  "totalCredits": 240,
+  "distributedCredits": {
+    "Básicos": 60,
+    "Optativa": 30,
+    "Obligatoria": 150,
+    "Trabajo Fin de Carrera": 6
+  },
+  "skills": [
+    "686d5e2f5537f81cedafb46f",
+    "686d5e2f5537f81cedafb470",
+    "686d5e2f5537f81cedafb471",
+    "686d5e2f5537f81cedafb472",
+    "686d5e2f5537f81cedafb473",
+    "686d5e2f5537f81cedafb474",
+    "686d5e2f5537f81cedafb475",
+    "686d5e2f5537f81cedafb476",
+    "686d5e2f5537f81cedafb477",
+    "686d5e2f5537f81cedafb478"
+  ],
+  "learningOutcomes": [
+    {
+      "686d5e2f5537f81cedafb47a": [
+        "Análisis matemático"
+      ]
+    },
+    {
+      "686d5e2f5537f81cedafb47b": [
+        "Álgebra lineal"
+      ]
+    },
+    {
+      "686d5e2f5537f81cedafb47c": [
+        "Estadística descriptiva"
+      ]
+    },
+    {
+      "686d5e2f5537f81cedafb47d": [
+        "Probabilidad"
+      ]
+    },
+    {
+      "686d5e2f5537f81cedafb47e": [
+        "Inferencia estadística"
+      ]
+    },
+    {
+      "686d5e2f5537f81cedafb47f": [
+        "Ecuaciones diferenciales"
+      ]
+    },
+    {
+      "686d5e2f5537f81cedafb480": [
+        "Análisis numérico"
+      ]
+    },
+    {
+      "686d5e2f5537f81cedafb481": [
+        "Optimización"
+      ]
+    },
+    {
+      "686d5e2f5537f81cedafb482": [
+        "Teoría de la medida"
+      ]
+    },
+    {
+      "686d5e2f5537f81cedafb483": [
+        "Modelización matemática"
+      ]
+    }
+  ],
+  "userId": "686d4de8b6f71aaaccb0585c",
+  "createdAt": {
+    "$date": "2025-07-08T18:06:39.528Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-08T18:06:39.528Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686d5e2f71a89558b4906e7a"
+  },
+  "titleCode": "11",
+  "universities": [
+    "Universidad de Deusto",
+    "Universidad Pompeu Fabra"
+  ],
+  "centers": [
+    "Facultad de Ciencias Sociales y Humanas",
+    "Barcelona School of Management"
+  ],
+  "name": "Máster Universitario en Derecho y especialidades jurídicas",
+  "academicLevel": "Máster",
+  "branch": "Ciencias Sociales y Jurídicas",
+  "academicField": "Derecho y especialidades jurídicas",
+  "status": "Activo",
+  "yearDelivery": 2023,
+  "totalCredits": 60,
+  "distributedCredits": {
+    "Básicos": 12,
+    "Optativa": 6,
+    "Obligatoria": 30,
+    "Trabajo Fin de Carrera": 12
+  },
+  "skills": [
+    "686d5e2f5537f81cedafb485",
+    "686d5e2f5537f81cedafb486",
+    "686d5e2f5537f81cedafb487",
+    "686d5e2f5537f81cedafb488",
+    "686d5e2f5537f81cedafb489",
+    "686d5e2f5537f81cedafb48a",
+    "686d5e2f5537f81cedafb48b",
+    "686d5e2f5537f81cedafb48c",
+    "686d5e2f5537f81cedafb48d",
+    "686d5e2f5537f81cedafb48e"
+  ],
+  "learningOutcomes": [
+    {
+      "686d5e2f5537f81cedafb490": [
+        "Teoría del Derecho"
+      ]
+    },
+    {
+      "686d5e2f5537f81cedafb491": [
+        "Derecho Constitucional"
+      ]
+    },
+    {
+      "686d5e2f5537f81cedafb492": [
+        "Derecho Administrativo"
+      ]
+    },
+    {
+      "686d5e2f5537f81cedafb493": [
+        "Derecho Civil"
+      ]
+    },
+    {
+      "686d5e2f5537f81cedafb494": [
+        "Derecho Penal"
+      ]
+    },
+    {
+      "686d5e2f5537f81cedafb495": [
+        "Derecho Internacional"
+      ]
+    },
+    {
+      "686d5e2f5537f81cedafb496": [
+        "Investigación jurídica"
+      ]
+    },
+    {
+      "686d5e2f5537f81cedafb497": [
+        "Análisis de jurisprudencia"
+      ]
+    },
+    {
+      "686d5e2f5537f81cedafb498": [
+        "Negociación y mediación"
+      ]
+    },
+    {
+      "686d5e2f5537f81cedafb499": [
+        "Ética profesional"
+      ]
+    }
+  ],
+  "userId": "686d4de8b6f71aaaccb0585c",
+  "createdAt": {
+    "$date": "2025-07-08T18:06:39.549Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-08T18:06:39.549Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686d5e2f71a89558b4906e7c"
+  },
+  "titleCode": "12",
+  "universities": [
+    "Universidad Carlos III de Madrid",
+    "Universidad Rey Juan Carlos"
+  ],
+  "centers": [
+    "Centro de Postgrado",
+    "Centro de Educación Superior de Negocios, Innovación y Tecnología (IUNIT)"
+  ],
+  "name": "Grado en Periodismo, comunicación, publicidad y RRPP",
+  "academicLevel": "Grado",
+  "branch": "Ciencias Sociales y Jurídicas",
+  "academicField": "Periodismo, comunicación, publicidad y RRPP",
+  "status": "Activo",
+  "yearDelivery": 2022,
+  "totalCredits": 240,
+  "distributedCredits": {
+    "Básicos": 60,
+    "Optativa": 30,
+    "Obligatoria": 144,
+    "Trabajo Fin de Carrera": 6
+  },
+  "skills": [
+    "686d5e2f5537f81cedafb49b",
+    "686d5e2f5537f81cedafb49c",
+    "686d5e2f5537f81cedafb49d",
+    "686d5e2f5537f81cedafb49e",
+    "686d5e2f5537f81cedafb49f",
+    "686d5e2f5537f81cedafb4a0",
+    "686d5e2f5537f81cedafb4a1",
+    "686d5e2f5537f81cedafb4a2",
+    "686d5e2f5537f81cedafb4a3",
+    "686d5e2f5537f81cedafb4a4"
+  ],
+  "learningOutcomes": [
+    {
+      "686d5e2f5537f81cedafb4a6": [
+        "Redacción periodística"
+      ]
+    },
+    {
+      "686d5e2f5537f81cedafb4a7": [
+        "Comunicación audiovisual"
+      ]
+    },
+    {
+      "686d5e2f5537f81cedafb4a8": [
+        "Investigación de fuentes"
+      ]
+    },
+    {
+      "686d5e2f5537f81cedafb4a9": [
+        "Ética y deontología"
+      ]
+    },
+    {
+      "686d5e2f5537f81cedafb4aa": [
+        "Publicidad y marketing"
+      ]
+    },
+    {
+      "686d5e2f5537f81cedafb4ab": [
+        "Relaciones públicas"
+      ]
+    },
+    {
+      "686d5e2f5537f81cedafb4ac": [
+        "Narrativa digital"
+      ]
+    },
+    {
+      "686d5e2f5537f81cedafb4ad": [
+        "Producción multimedia"
+      ]
+    },
+    {
+      "686d5e2f5537f81cedafb4ae": [
+        "Análisis de audiencias"
+      ]
+    },
+    {
+      "686d5e2f5537f81cedafb4af": [
+        "Presentación en medios"
+      ]
+    }
+  ],
+  "userId": "686d4de8b6f71aaaccb0585c",
+  "createdAt": {
+    "$date": "2025-07-08T18:06:39.573Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-08T18:06:39.573Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686d5e2f71a89558b4906e7e"
+  },
+  "titleCode": "13",
+  "universities": [
+    "Universidad de Granada",
+    "Universidad de Santiago de Compostela"
+  ],
+  "centers": [
+    "Escuela de Doctorado de Ciencias de la Salud de la Universidad de Granada",
+    "Centro de Investigación en Medicina Molecular y Enfermedades Crónicas (CiMUS)"
+  ],
+  "name": "Máster Universitario en Farmacia",
+  "academicLevel": "Máster",
+  "branch": "Ciencias de la Salud",
+  "academicField": "Farmacia",
+  "status": "Activo",
+  "yearDelivery": 2021,
+  "totalCredits": 60,
+  "distributedCredits": {
+    "Básicos": 12,
+    "Optativa": 6,
+    "Obligatoria": 30,
+    "Trabajo Fin de Carrera": 12
+  },
+  "skills": [
+    "686d5e2f5537f81cedafb4b1",
+    "686d5e2f5537f81cedafb4b2",
+    "686d5e2f5537f81cedafb4b3",
+    "686d5e2f5537f81cedafb4b4",
+    "686d5e2f5537f81cedafb4b5",
+    "686d5e2f5537f81cedafb4b6",
+    "686d5e2f5537f81cedafb4b7",
+    "686d5e2f5537f81cedafb4b8",
+    "686d5e2f5537f81cedafb4b9",
+    "686d5e2f5537f81cedafb4ba"
+  ],
+  "learningOutcomes": [
+    {
+      "686d5e2f5537f81cedafb4bc": [
+        "Farmacología avanzada"
+      ]
+    },
+    {
+      "686d5e2f5537f81cedafb4bd": [
+        "Tecnología farmacéutica"
+      ]
+    },
+    {
+      "686d5e2f5537f81cedafb4be": [
+        "Regulación y legislación"
+      ]
+    },
+    {
+      "686d5e2f5537f81cedafb4bf": [
+        "Control de calidad"
+      ]
+    },
+    {
+      "686d5e2f5537f81cedafb4c0": [
+        "Farmacocinética"
+      ]
+    },
+    {
+      "686d5e2f5537f81cedafb4c1": [
+        "Farmacogenómica"
+      ]
+    },
+    {
+      "686d5e2f5537f81cedafb4c2": [
+        "Ensayos clínicos"
+      ]
+    },
+    {
+      "686d5e2f5537f81cedafb4c3": [
+        "Farmacia hospitalaria"
+      ]
+    },
+    {
+      "686d5e2f5537f81cedafb4c4": [
+        "Atención farmacéutica"
+      ]
+    },
+    {
+      "686d5e2f5537f81cedafb4c5": [
+        "Ensayos clínicos"
+      ]
+    }
+  ],
+  "userId": "686d4de8b6f71aaaccb0585c",
+  "createdAt": {
+    "$date": "2025-07-08T18:06:39.594Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-08T18:06:39.594Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686d5e2f71a89558b4906e80"
+  },
+  "titleCode": "14",
+  "universities": [
+    "Universitat de València (Estudi General)",
+    "Universidad de Oviedo"
+  ],
+  "centers": [
+    "Departamento de Bioquímica y Biología Molecular",
+    "Escuela Politécnica de Ingeniería de Gijón"
+  ],
+  "name": "Doctorado en Física y astronomía",
+  "academicLevel": "Doctorado",
+  "branch": "Ciencias",
+  "academicField": "Física y astronomía",
+  "status": "Activo",
+  "yearDelivery": 2020,
+  "totalCredits": 180,
+  "distributedCredits": {
+    "Básicos": 30,
+    "Optativa": 30,
+    "Obligatoria": 96,
+    "Trabajo Fin de Carrera": 24
+  },
+  "skills": [
+    "686d5e2f5537f81cedafb4c7",
+    "686d5e2f5537f81cedafb4c8",
+    "686d5e2f5537f81cedafb4c9",
+    "686d5e2f5537f81cedafb4ca",
+    "686d5e2f5537f81cedafb4cb",
+    "686d5e2f5537f81cedafb4cc",
+    "686d5e2f5537f81cedafb4cd",
+    "686d5e2f5537f81cedafb4ce",
+    "686d5e2f5537f81cedafb4cf",
+    "686d5e2f5537f81cedafb4d0"
+  ],
+  "learningOutcomes": [
+    {
+      "686d5e2f5537f81cedafb4d2": [
+        "Astrofísica teórica"
+      ]
+    },
+    {
+      "686d5e2f5537f81cedafb4d3": [
+        "Instrumentación astronómica"
+      ]
+    },
+    {
+      "686d5e2f5537f81cedafb4d4": [
+        "Física computacional"
+      ]
+    },
+    {
+      "686d5e2f5537f81cedafb4d5": [
+        "Espectroscopía"
+      ]
+    },
+    {
+      "686d5e2f5537f81cedafb4d6": [
+        "Relatividad general"
+      ]
+    },
+    {
+      "686d5e2f5537f81cedafb4d7": [
+        "Mecánica cuántica"
+      ]
+    },
+    {
+      "686d5e2f5537f81cedafb4d8": [
+        "Procesamiento de señales"
+      ]
+    },
+    {
+      "686d5e2f5537f81cedafb4d9": [
+        "Modelos cosmológicos"
+      ]
+    },
+    {
+      "686d5e2f5537f81cedafb4da": [
+        "Técnicas de laboratorio"
+      ]
+    },
+    {
+      "686d5e2f5537f81cedafb4db": [
+        "Divulgación científica"
+      ]
+    }
+  ],
+  "userId": "686d4de8b6f71aaaccb0585c",
+  "createdAt": {
+    "$date": "2025-07-08T18:06:39.616Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-08T18:06:39.616Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686d5e2f71a89558b4906e82"
+  },
+  "titleCode": "15",
+  "universities": [
+    "Universidad de Murcia",
+    "Universidad de Valladolid"
+  ],
+  "centers": [
+    "Escuela Internacional de Doctorado de la Universidad de Murcia",
+    "Escuela de Doctorado de la Universidad de Valladolid"
+  ],
+  "name": "Grado en Historia del arte y de la expresión artística y bellas artes",
+  "academicLevel": "Grado",
+  "branch": "Artes y Humanidades",
+  "academicField": "Historia del arte y de la expresión artística y bellas artes",
+  "status": "Activo",
+  "yearDelivery": 2023,
+  "totalCredits": 240,
+  "distributedCredits": {
+    "Básicos": 60,
+    "Optativa": 30,
+    "Obligatoria": 144,
+    "Trabajo Fin de Carrera": 6
+  },
+  "skills": [
+    "686d5e2f5537f81cedafb4dd",
+    "686d5e2f5537f81cedafb4de",
+    "686d5e2f5537f81cedafb4df",
+    "686d5e2f5537f81cedafb4e0",
+    "686d5e2f5537f81cedafb4e1",
+    "686d5e2f5537f81cedafb4e2",
+    "686d5e2f5537f81cedafb4e3",
+    "686d5e2f5537f81cedafb4e4",
+    "686d5e2f5537f81cedafb4e5",
+    "686d5e2f5537f81cedafb4e6"
+  ],
+  "learningOutcomes": [
+    {
+      "686d5e2f5537f81cedafb4e8": [
+        "Historia del arte medieval"
+      ]
+    },
+    {
+      "686d5e2f5537f81cedafb4e9": [
+        "Técnicas de conservación"
+      ]
+    },
+    {
+      "686d5e2f5537f81cedafb4ea": [
+        "Crítica de arte"
+      ]
+    },
+    {
+      "686d5e2f5537f81cedafb4eb": [
+        "Iconografía"
+      ]
+    },
+    {
+      "686d5e2f5537f81cedafb4ec": [
+        "Gestión cultural"
+      ]
+    },
+    {
+      "686d5e2f5537f81cedafb4ed": [
+        "Metodología de investigación"
+      ]
+    },
+    {
+      "686d5e2f5537f81cedafb4ee": [
+        "Teoría estética"
+      ]
+    },
+    {
+      "686d5e2f5537f81cedafb4ef": [
+        "Museología"
+      ]
+    },
+    {
+      "686d5e2f5537f81cedafb4f0": [
+        "Arte contemporáneo"
+      ]
+    },
+    {
+      "686d5e2f5537f81cedafb4f1": [
+        "Comunicación cultural"
+      ]
+    }
+  ],
+  "userId": "686d4de8b6f71aaaccb0585c",
+  "createdAt": {
+    "$date": "2025-07-08T18:06:39.641Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-08T18:06:39.641Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686d5e2f71a89558b4906e84"
+  },
+  "titleCode": "16",
+  "universities": [
+    "Universidad de Salamanca",
+    "Universidad Alfonso X El Sabio"
+  ],
+  "centers": [
+    "Facultad de Medicina",
+    "Facultad de Ciencias de la Salud"
+  ],
+  "name": "Máster Universitario en Medicina y Odontología",
+  "academicLevel": "Máster",
+  "branch": "Ciencias de la Salud",
+  "academicField": "Medicina y Odontología",
+  "status": "Activo",
+  "yearDelivery": 2022,
+  "totalCredits": 60,
+  "distributedCredits": {
+    "Básicos": 12,
+    "Optativa": 6,
+    "Obligatoria": 30,
+    "Trabajo Fin de Carrera": 12
+  },
+  "skills": [
+    "686d5e2f5537f81cedafb4f3",
+    "686d5e2f5537f81cedafb4f4",
+    "686d5e2f5537f81cedafb4f5",
+    "686d5e2f5537f81cedafb4f6",
+    "686d5e2f5537f81cedafb4f7",
+    "686d5e2f5537f81cedafb4f8",
+    "686d5e2f5537f81cedafb4f9",
+    "686d5e2f5537f81cedafb4fa",
+    "686d5e2f5537f81cedafb4fb",
+    "686d5e2f5537f81cedafb4fc"
+  ],
+  "learningOutcomes": [
+    {
+      "686d5e2f5537f81cedafb4fe": [
+        "Anatomía humana avanzada"
+      ]
+    },
+    {
+      "686d5e2f5537f81cedafb4ff": [
+        "Fisiología clínica"
+      ]
+    },
+    {
+      "686d5e2f5537f81cedafb500": [
+        "Diagnóstico por imagen"
+      ]
+    },
+    {
+      "686d5e2f5537f81cedafb501": [
+        "Técnicas quirúrgicas"
+      ]
+    },
+    {
+      "686d5e2f5537f81cedafb502": [
+        "Periodoncia"
+      ]
+    },
+    {
+      "686d5e2f5537f81cedafb503": [
+        "Odontología restauradora"
+      ]
+    },
+    {
+      "686d5e2f5537f81cedafb504": [
+        "Farmacología clínica"
+      ]
+    },
+    {
+      "686d5e2f5537f81cedafb505": [
+        "Ética médica"
+      ]
+    },
+    {
+      "686d5e2f5537f81cedafb506": [
+        "Investigación biomédica"
+      ]
+    },
+    {
+      "686d5e2f5537f81cedafb507": [
+        "Comunicación paciente-médico"
+      ]
+    }
+  ],
+  "userId": "686d4de8b6f71aaaccb0585c",
+  "createdAt": {
+    "$date": "2025-07-08T18:06:39.665Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-08T18:06:39.665Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686d5e2f71a89558b4906e86"
+  },
+  "titleCode": "17",
+  "universities": [
+    "Universidad Politécnica de Madrid",
+    "Universidad de Vigo"
+  ],
+  "centers": [
+    "Escuela Internacional de Doctorado de la Universidad Politécnica de Madrid",
+    "Escuela de Ingeniería de Telecomunicación"
+  ],
+  "name": "Doctorado en Ing. eléctrica, Ing. electrónica e Ing. de la telecomunicación",
+  "academicLevel": "Doctorado",
+  "branch": "Ingeniería y Arquitectura",
+  "academicField": "Ing. eléctrica, Ing. electrónica e Ing. de la telecomunicación",
+  "status": "Activo",
+  "yearDelivery": 2021,
+  "totalCredits": 180,
+  "distributedCredits": {
+    "Básicos": 30,
+    "Optativa": 30,
+    "Obligatoria": 96,
+    "Trabajo Fin de Carrera": 24
+  },
+  "skills": [
+    "686d5e2f5537f81cedafb509",
+    "686d5e2f5537f81cedafb50a",
+    "686d5e2f5537f81cedafb50b",
+    "686d5e2f5537f81cedafb50c",
+    "686d5e2f5537f81cedafb50d",
+    "686d5e2f5537f81cedafb50e",
+    "686d5e2f5537f81cedafb50f",
+    "686d5e2f5537f81cedafb510",
+    "686d5e2f5537f81cedafb511",
+    "686d5e2f5537f81cedafb512"
+  ],
+  "learningOutcomes": [
+    {
+      "686d5e2f5537f81cedafb514": [
+        "Teoría de circuitos"
+      ]
+    },
+    {
+      "686d5e2f5537f81cedafb515": [
+        "Electrónica de potencia"
+      ]
+    },
+    {
+      "686d5e2f5537f81cedafb516": [
+        "Comunicaciones inalámbricas"
+      ]
+    },
+    {
+      "686d5e2f5537f81cedafb517": [
+        "Procesamiento digital de señales"
+      ]
+    },
+    {
+      "686d5e2f5537f81cedafb518": [
+        "Sistemas de control"
+      ]
+    },
+    {
+      "686d5e2f5537f81cedafb519": [
+        "Optoelectrónica"
+      ]
+    },
+    {
+      "686d5e2f5537f81cedafb51a": [
+        "Redes de datos"
+      ]
+    },
+    {
+      "686d5e2f5537f81cedafb51b": [
+        "Instrumentación electrónica"
+      ]
+    },
+    {
+      "686d5e2f5537f81cedafb51c": [
+        "Simulación de sistemas"
+      ]
+    },
+    {
+      "686d5e2f5537f81cedafb51d": [
+        "Gestión de proyectos de I+D"
+      ]
+    }
+  ],
+  "userId": "686d4de8b6f71aaaccb0585c",
+  "createdAt": {
+    "$date": "2025-07-08T18:06:39.687Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-08T18:06:39.687Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686d5e2f71a89558b4906e88"
+  },
+  "titleCode": "18",
+  "universities": [
+    "Universidad de Cantabria",
+    "Universidad de La Laguna"
+  ],
+  "centers": [
+    "Escuela Politécnica de Ingeniería de Minas y Energía",
+    "Escuela Politécnica Superior de Ingeniería"
+  ],
+  "name": "Grado en C. medioambientales y ecología",
+  "academicLevel": "Grado",
+  "branch": "Ciencias",
+  "academicField": "C. medioambientales y ecología",
+  "status": "Activo",
+  "yearDelivery": 2023,
+  "totalCredits": 240,
+  "distributedCredits": {
+    "Básicos": 60,
+    "Optativa": 30,
+    "Obligatoria": 144,
+    "Trabajo Fin de Carrera": 6
+  },
+  "skills": [
+    "686d5e2f5537f81cedafb51f",
+    "686d5e2f5537f81cedafb520",
+    "686d5e2f5537f81cedafb521",
+    "686d5e2f5537f81cedafb522",
+    "686d5e2f5537f81cedafb523",
+    "686d5e2f5537f81cedafb524",
+    "686d5e2f5537f81cedafb525",
+    "686d5e2f5537f81cedafb526",
+    "686d5e2f5537f81cedafb527",
+    "686d5e2f5537f81cedafb528"
+  ],
+  "learningOutcomes": [
+    {
+      "686d5e2f5537f81cedafb52a": [
+        "Ecología de ecosistemas"
+      ]
+    },
+    {
+      "686d5e2f5537f81cedafb52b": [
+        "Gestión de recursos naturales"
+      ]
+    },
+    {
+      "686d5e2f5537f81cedafb52c": [
+        "Evaluación de impacto ambiental"
+      ]
+    },
+    {
+      "686d5e2f5537f81cedafb52d": [
+        "Biotecnología ambiental"
+      ]
+    },
+    {
+      "686d5e2f5537f81cedafb52e": [
+        "Hidrología"
+      ]
+    },
+    {
+      "686d5e2f5537f81cedafb52f": [
+        "SIG"
+      ]
+    },
+    {
+      "686d5e2f5537f81cedafb530": [
+        "Conservación de la biodiversidad"
+      ]
+    },
+    {
+      "686d5e2f5537f81cedafb531": [
+        "Química ambiental"
+      ]
+    },
+    {
+      "686d5e2f5537f81cedafb532": [
+        "Políticas ambientales"
+      ]
+    },
+    {
+      "686d5e2f5537f81cedafb533": [
+        "Comunicación ambiental"
+      ]
+    }
+  ],
+  "userId": "686d4de8b6f71aaaccb0585c",
+  "createdAt": {
+    "$date": "2025-07-08T18:06:39.710Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-08T18:06:39.710Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686d5e2f71a89558b4906e8a"
+  },
+  "titleCode": "19",
+  "universities": [
+    "Universidad de Cádiz",
+    "Universidad de Alcalá"
+  ],
+  "centers": [
+    "Centro de Estudios Jurídicos y Económicos del Campo de Gibraltar Francisco Tomás y Valiente",
+    "Instituto Universitario de Análisis Económico y Social - IAES"
+  ],
+  "name": "Doctorado en CCSS, trabajo social, RRLL, RRHH, sociología, CCPP y RRII",
+  "academicLevel": "Doctorado",
+  "branch": "Ciencias Sociales y Jurídicas",
+  "academicField": "CCSS, trabajo social, RRLL, RRHH, sociología, CCPP y RRII",
+  "status": "Activo",
+  "yearDelivery": 2020,
+  "totalCredits": 180,
+  "distributedCredits": {
+    "Básicos": 30,
+    "Optativa": 30,
+    "Obligatoria": 96,
+    "Trabajo Fin de Carrera": 24
+  },
+  "skills": [
+    "686d5e2f5537f81cedafb535",
+    "686d5e2f5537f81cedafb536",
+    "686d5e2f5537f81cedafb537",
+    "686d5e2f5537f81cedafb538",
+    "686d5e2f5537f81cedafb539",
+    "686d5e2f5537f81cedafb53a",
+    "686d5e2f5537f81cedafb53b",
+    "686d5e2f5537f81cedafb53c",
+    "686d5e2f5537f81cedafb53d",
+    "686d5e2f5537f81cedafb53e"
+  ],
+  "learningOutcomes": [
+    {
+      "686d5e2f5537f81cedafb540": [
+        "Investigación social avanzada"
+      ]
+    },
+    {
+      "686d5e2f5537f81cedafb541": [
+        "Políticas públicas"
+      ]
+    },
+    {
+      "686d5e2f5537f81cedafb542": [
+        "Sociología del trabajo"
+      ]
+    },
+    {
+      "686d5e2f5537f81cedafb543": [
+        "Derechos laborales"
+      ]
+    },
+    {
+      "686d5e2f5537f81cedafb544": [
+        "Gestión de RRHH"
+      ]
+    },
+    {
+      "686d5e2f5537f81cedafb545": [
+        "Trabajo social clínico"
+      ]
+    },
+    {
+      "686d5e2f5537f81cedafb546": [
+        "Estadística social"
+      ]
+    },
+    {
+      "686d5e2f5537f81cedafb547": [
+        "Análisis cualitativo"
+      ]
+    },
+    {
+      "686d5e2f5537f81cedafb548": [
+        "Ética profesional"
+      ]
+    },
+    {
+      "686d5e2f5537f81cedafb549": [
+        "Comunicación institucional"
+      ]
+    }
+  ],
+  "userId": "686d4de8b6f71aaaccb0585c",
+  "createdAt": {
+    "$date": "2025-07-08T18:06:39.732Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-08T18:06:39.732Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686d5e4c71a89558b4906e98"
+  },
+  "titleCode": "20",
+  "universities": [
+    "Universitat de València (Estudi General)",
+    "Universidad de Oviedo"
+  ],
+  "centers": [
+    "Departamento de Bioquímica y Biología Molecular",
+    "Facultad de Biología"
+  ],
+  "name": "Grado en Biología y genética",
+  "academicLevel": "Grado",
+  "branch": "Ciencias",
+  "academicField": "Biología y genética",
+  "status": "Activo",
+  "yearDelivery": 2023,
+  "totalCredits": 240,
+  "distributedCredits": {
+    "Básicos": 60,
+    "Optativa": 30,
+    "Obligatoria": 144,
+    "Trabajo Fin de Carrera": 6
+  },
+  "skills": [
+    "686d5e4c5537f81cedafb54b",
+    "686d5e4c5537f81cedafb54c",
+    "686d5e4c5537f81cedafb54d",
+    "686d5e4c5537f81cedafb54e",
+    "686d5e4c5537f81cedafb54f",
+    "686d5e4c5537f81cedafb550",
+    "686d5e4c5537f81cedafb551",
+    "686d5e4c5537f81cedafb552",
+    "686d5e4c5537f81cedafb553",
+    "686d5e4c5537f81cedafb554"
+  ],
+  "learningOutcomes": [
+    {
+      "686d5e4c5537f81cedafb556": [
+        "Genética mendeliana"
+      ]
+    },
+    {
+      "686d5e4c5537f81cedafb557": [
+        "Biología molecular"
+      ]
+    },
+    {
+      "686d5e4c5537f81cedafb558": [
+        "Cultivo celular"
+      ]
+    },
+    {
+      "686d5e4c5537f81cedafb559": [
+        "Bioinformática"
+      ]
+    },
+    {
+      "686d5e4c5537f81cedafb55a": [
+        "Citogenética"
+      ]
+    },
+    {
+      "686d5e4c5537f81cedafb55b": [
+        "Epigenética"
+      ]
+    },
+    {
+      "686d5e4c5537f81cedafb55c": [
+        "Genómica funcional"
+      ]
+    },
+    {
+      "686d5e4c5537f81cedafb55d": [
+        "Técnicas CRISPR"
+      ]
+    },
+    {
+      "686d5e4c5537f81cedafb55e": [
+        "Proteómica"
+      ]
+    },
+    {
+      "686d5e4c5537f81cedafb55f": [
+        "Ética en investigación"
+      ]
+    }
+  ],
+  "userId": "686d4df3b6f71aaaccb05863",
+  "createdAt": {
+    "$date": "2025-07-08T18:07:08.083Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-08T18:07:08.083Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686d5e4c71a89558b4906e9a"
+  },
+  "titleCode": "21",
+  "universities": [
+    "Universidad de Salamanca",
+    "Universidad de León"
+  ],
+  "centers": [
+    "Facultad de Ciencias Agrarias y Ambientales",
+    "Escuela de Ingeniería Agraria y Forestal"
+  ],
+  "name": "Máster Universitario en Ciencias Agrarias y tecnología de los alimentos",
+  "academicLevel": "Máster",
+  "branch": "Ciencias",
+  "academicField": "C. agrarias y tecnología de los alimentos",
+  "status": "Activo",
+  "yearDelivery": 2022,
+  "totalCredits": 60,
+  "distributedCredits": {
+    "Básicos": 12,
+    "Optativa": 6,
+    "Obligatoria": 30,
+    "Trabajo Fin de Carrera": 12
+  },
+  "skills": [
+    "686d5e4c5537f81cedafb561",
+    "686d5e4c5537f81cedafb562",
+    "686d5e4c5537f81cedafb563",
+    "686d5e4c5537f81cedafb564",
+    "686d5e4c5537f81cedafb565",
+    "686d5e4c5537f81cedafb566",
+    "686d5e4c5537f81cedafb567",
+    "686d5e4c5537f81cedafb568",
+    "686d5e4c5537f81cedafb569",
+    "686d5e4c5537f81cedafb56a"
+  ],
+  "learningOutcomes": [
+    {
+      "686d5e4c5537f81cedafb56c": [
+        "Tecnología de alimentos"
+      ]
+    },
+    {
+      "686d5e4c5537f81cedafb56d": [
+        "Microbiología alimentaria"
+      ]
+    },
+    {
+      "686d5e4c5537f81cedafb56e": [
+        "Ingeniería de bioprocesos"
+      ]
+    },
+    {
+      "686d5e4c5537f81cedafb56f": [
+        "Química de los alimentos"
+      ]
+    },
+    {
+      "686d5e4c5537f81cedafb570": [
+        "Seguridad alimentaria"
+      ]
+    },
+    {
+      "686d5e4c5537f81cedafb571": [
+        "Análisis sensorial"
+      ]
+    },
+    {
+      "686d5e4c5537f81cedafb572": [
+        "Nutrición y salud"
+      ]
+    },
+    {
+      "686d5e4c5537f81cedafb573": [
+        "Gestión de calidad"
+      ]
+    },
+    {
+      "686d5e4c5537f81cedafb574": [
+        "Envases inteligentes"
+      ]
+    },
+    {
+      "686d5e4c5537f81cedafb575": [
+        "Biotecnología vegetal"
+      ]
+    }
+  ],
+  "userId": "686d4df3b6f71aaaccb05863",
+  "createdAt": {
+    "$date": "2025-07-08T18:07:08.104Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-08T18:07:08.104Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686d5e4c71a89558b4906e9c"
+  },
+  "titleCode": "22",
+  "universities": [
+    "Universidad Autónoma de Madrid",
+    "Universidad de Girona"
+  ],
+  "centers": [
+    "Instituto de Investigaciones Biomédicas Alberto Sols (IIB)",
+    "Instituto de Investigación Biomédica de Girona (IdIBGi)"
+  ],
+  "name": "Grado en Ciencias biomédicas",
+  "academicLevel": "Grado",
+  "branch": "Ciencias de la Salud",
+  "academicField": "C. biomédicas",
+  "status": "Activo",
+  "yearDelivery": 2023,
+  "totalCredits": 240,
+  "distributedCredits": {
+    "Básicos": 60,
+    "Optativa": 30,
+    "Obligatoria": 144,
+    "Trabajo Fin de Carrera": 6
+  },
+  "skills": [
+    "686d5e4c5537f81cedafb577",
+    "686d5e4c5537f81cedafb578",
+    "686d5e4c5537f81cedafb579",
+    "686d5e4c5537f81cedafb57a",
+    "686d5e4c5537f81cedafb57b",
+    "686d5e4c5537f81cedafb57c",
+    "686d5e4c5537f81cedafb57d",
+    "686d5e4c5537f81cedafb57e",
+    "686d5e4c5537f81cedafb57f",
+    "686d5e4c5537f81cedafb580"
+  ],
+  "learningOutcomes": [
+    {
+      "686d5e4c5537f81cedafb582": [
+        "Biología celular"
+      ]
+    },
+    {
+      "686d5e4c5537f81cedafb583": [
+        "Inmunología"
+      ]
+    },
+    {
+      "686d5e4c5537f81cedafb584": [
+        "Virología"
+      ]
+    },
+    {
+      "686d5e4c5537f81cedafb585": [
+        "Biotecnología médica"
+      ]
+    },
+    {
+      "686d5e4c5537f81cedafb586": [
+        "Farmacología experimental"
+      ]
+    },
+    {
+      "686d5e4c5537f81cedafb587": [
+        "Técnicas de proteómica"
+      ]
+    },
+    {
+      "686d5e4c5537f81cedafb588": [
+        "Neurociencias"
+      ]
+    },
+    {
+      "686d5e4c5537f81cedafb589": [
+        "Bioética"
+      ]
+    },
+    {
+      "686d5e4c5537f81cedafb58a": [
+        "Investigación clínica"
+      ]
+    },
+    {
+      "686d5e4c5537f81cedafb58b": [
+        "Estadística biomédica"
+      ]
+    }
+  ],
+  "userId": "686d4df3b6f71aaaccb05863",
+  "createdAt": {
+    "$date": "2025-07-08T18:07:08.122Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-08T18:07:08.122Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686d5e4c71a89558b4906e9e"
+  },
+  "titleCode": "23",
+  "universities": [
+    "Universidad de Barcelona",
+    "Universidad de Granada"
+  ],
+  "centers": [
+    "Facultad de Ciencias de la Tierra",
+    "Instituto Andaluz de Ciencias de la Tierra (IACT)"
+  ],
+  "name": "Doctorado en Ciencias de la tierra",
+  "academicLevel": "Doctorado",
+  "branch": "Ciencias",
+  "academicField": "C. de la tierra",
+  "status": "Activo",
+  "yearDelivery": 2021,
+  "totalCredits": 180,
+  "distributedCredits": {
+    "Básicos": 30,
+    "Optativa": 30,
+    "Obligatoria": 96,
+    "Trabajo Fin de Carrera": 24
+  },
+  "skills": [
+    "686d5e4c5537f81cedafb58d",
+    "686d5e4c5537f81cedafb58e",
+    "686d5e4c5537f81cedafb58f",
+    "686d5e4c5537f81cedafb590",
+    "686d5e4c5537f81cedafb591",
+    "686d5e4c5537f81cedafb592",
+    "686d5e4c5537f81cedafb593",
+    "686d5e4c5537f81cedafb594",
+    "686d5e4c5537f81cedafb595",
+    "686d5e4c5537f81cedafb596"
+  ],
+  "learningOutcomes": [
+    {
+      "686d5e4c5537f81cedafb598": [
+        "Geología estructural"
+      ]
+    },
+    {
+      "686d5e4c5537f81cedafb599": [
+        "Petrología"
+      ]
+    },
+    {
+      "686d5e4c5537f81cedafb59a": [
+        "Sedimentología"
+      ]
+    },
+    {
+      "686d5e4c5537f81cedafb59b": [
+        "Geomorfología"
+      ]
+    },
+    {
+      "686d5e4c5537f81cedafb59c": [
+        "Geoquímica"
+      ]
+    },
+    {
+      "686d5e4c5537f81cedafb59d": [
+        "Sismología"
+      ]
+    },
+    {
+      "686d5e4c5537f81cedafb59e": [
+        "Paleontología"
+      ]
+    },
+    {
+      "686d5e4c5537f81cedafb59f": [
+        "Tectónica de placas"
+      ]
+    },
+    {
+      "686d5e4c5537f81cedafb5a0": [
+        "Cartografía geológica"
+      ]
+    },
+    {
+      "686d5e4c5537f81cedafb5a1": [
+        "Geoestadística"
+      ]
+    }
+  ],
+  "userId": "686d4df3b6f71aaaccb05863",
+  "createdAt": {
+    "$date": "2025-07-08T18:07:08.145Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-08T18:07:08.145Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686d5e4c71a89558b4906ea0"
+  },
+  "titleCode": "24",
+  "universities": [
+    "Universidad Complutense de Madrid",
+    "Universidad de Santiago de Compostela"
+  ],
+  "centers": [
+    "Facultad de Psicología",
+    "Facultad de Psicología"
+  ],
+  "name": "Máster Universitario en Psicología del comportamiento",
+  "academicLevel": "Máster",
+  "branch": "Ciencias Sociales y Jurídicas",
+  "academicField": "C. del comportamiento y psicología",
+  "status": "Activo",
+  "yearDelivery": 2023,
+  "totalCredits": 60,
+  "distributedCredits": {
+    "Básicos": 12,
+    "Optativa": 6,
+    "Obligatoria": 30,
+    "Trabajo Fin de Carrera": 12
+  },
+  "skills": [
+    "686d5e4c5537f81cedafb5a3",
+    "686d5e4c5537f81cedafb5a4",
+    "686d5e4c5537f81cedafb5a5",
+    "686d5e4c5537f81cedafb5a6",
+    "686d5e4c5537f81cedafb5a7",
+    "686d5e4c5537f81cedafb5a8",
+    "686d5e4c5537f81cedafb5a9",
+    "686d5e4c5537f81cedafb5aa",
+    "686d5e4c5537f81cedafb5ab",
+    "686d5e4c5537f81cedafb5ac"
+  ],
+  "learningOutcomes": [
+    {
+      "686d5e4c5537f81cedafb5ae": [
+        "Psicología experimental"
+      ]
+    },
+    {
+      "686d5e4c5537f81cedafb5af": [
+        "Psicología clínica"
+      ]
+    },
+    {
+      "686d5e4c5537f81cedafb5b0": [
+        "Psicología social"
+      ]
+    },
+    {
+      "686d5e4c5537f81cedafb5b1": [
+        "Neuropsicología"
+      ]
+    },
+    {
+      "686d5e4c5537f81cedafb5b2": [
+        "Psicología educativa"
+      ]
+    },
+    {
+      "686d5e4c5537f81cedafb5b3": [
+        "Psicoterapia"
+      ]
+    },
+    {
+      "686d5e4c5537f81cedafb5b4": [
+        "Evaluación psicológica"
+      ]
+    },
+    {
+      "686d5e4c5537f81cedafb5b5": [
+        "Psicología del desarrollo"
+      ]
+    },
+    {
+      "686d5e4c5537f81cedafb5b6": [
+        "Gestión de casos"
+      ]
+    },
+    {
+      "686d5e4c5537f81cedafb5b7": [
+        "Ética profesional"
+      ]
+    }
+  ],
+  "userId": "686d4df3b6f71aaaccb05863",
+  "createdAt": {
+    "$date": "2025-07-08T18:07:08.163Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-08T18:07:08.163Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686d5e4c71a89558b4906ea2"
+  },
+  "titleCode": "25",
+  "universities": [
+    "Universidad de Zaragoza",
+    "Universidad de Málaga"
+  ],
+  "centers": [
+    "Facultad de Economía y Empresa",
+    "Facultad de Ciencias Económicas y Empresariales"
+  ],
+  "name": "Grado en Ciencias económicas, administración y Dirección de Empresas, marketing, comercio, contabilidad y turismo",
+  "academicLevel": "Grado",
+  "branch": "Ciencias Sociales y Jurídicas",
+  "academicField": "C. económicas, administración y Dir. Empresas, marketing, comercio, contabilidad y turismo",
+  "status": "Activo",
+  "yearDelivery": 2023,
+  "totalCredits": 240,
+  "distributedCredits": {
+    "Básicos": 60,
+    "Optativa": 30,
+    "Obligatoria": 144,
+    "Trabajo Fin de Carrera": 6
+  },
+  "skills": [
+    "686d5e4c5537f81cedafb5b9",
+    "686d5e4c5537f81cedafb5ba",
+    "686d5e4c5537f81cedafb5bb",
+    "686d5e4c5537f81cedafb5bc",
+    "686d5e4c5537f81cedafb5bd",
+    "686d5e4c5537f81cedafb5be",
+    "686d5e4c5537f81cedafb5bf",
+    "686d5e4c5537f81cedafb5c0",
+    "686d5e4c5537f81cedafb5c1",
+    "686d5e4c5537f81cedafb5c2"
+  ],
+  "learningOutcomes": [
+    {
+      "686d5e4c5537f81cedafb5c4": [
+        "Contabilidad financiera"
+      ]
+    },
+    {
+      "686d5e4c5537f81cedafb5c5": [
+        "Marketing digital"
+      ]
+    },
+    {
+      "686d5e4c5537f81cedafb5c6": [
+        "Gestión empresarial"
+      ]
+    },
+    {
+      "686d5e4c5537f81cedafb5c7": [
+        "Economía internacional"
+      ]
+    },
+    {
+      "686d5e4c5537f81cedafb5c8": [
+        "Comercio electrónico"
+      ]
+    },
+    {
+      "686d5e4c5537f81cedafb5c9": [
+        "Análisis financiero"
+      ]
+    },
+    {
+      "686d5e4c5537f81cedafb5ca": [
+        "Dirección de recursos humanos"
+      ]
+    },
+    {
+      "686d5e4c5537f81cedafb5cb": [
+        "Fiscalidad"
+      ]
+    },
+    {
+      "686d5e4c5537f81cedafb5cc": [
+        "Emprendimiento"
+      ]
+    },
+    {
+      "686d5e4c5537f81cedafb5cd": [
+        "Turismo sostenible"
+      ]
+    }
+  ],
+  "userId": "686d4df3b6f71aaaccb05863",
+  "createdAt": {
+    "$date": "2025-07-08T18:07:08.179Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-08T18:07:08.179Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686d5e4c71a89558b4906ea4"
+  },
+  "titleCode": "26",
+  "universities": [
+    "Universidad de Granada",
+    "Universidad de Oviedo"
+  ],
+  "centers": [
+    "Instituto Universitario de Investigación en Estudios de la Mujer y de Género",
+    "Instituto Universitario en Género y Diversidad (IUGENDIV)"
+  ],
+  "name": "Grado en Estudios de género y estudios feministas",
+  "academicLevel": "Grado",
+  "branch": "Ciencias Sociales y Jurídicas",
+  "academicField": "Estudios de género y estudios feministas",
+  "status": "Activo",
+  "yearDelivery": 2023,
+  "totalCredits": 240,
+  "distributedCredits": {
+    "Básicos": 60,
+    "Optativa": 30,
+    "Obligatoria": 144,
+    "Trabajo Fin de Carrera": 6
+  },
+  "skills": [
+    "686d5e4c5537f81cedafb5cf",
+    "686d5e4c5537f81cedafb5d0",
+    "686d5e4c5537f81cedafb5d1",
+    "686d5e4c5537f81cedafb5d2",
+    "686d5e4c5537f81cedafb5d3",
+    "686d5e4c5537f81cedafb5d4",
+    "686d5e4c5537f81cedafb5d5",
+    "686d5e4c5537f81cedafb5d6",
+    "686d5e4c5537f81cedafb5d7",
+    "686d5e4c5537f81cedafb5d8"
+  ],
+  "learningOutcomes": [
+    {
+      "686d5e4c5537f81cedafb5da": [
+        "Teoría feminista"
+      ]
+    },
+    {
+      "686d5e4c5537f81cedafb5db": [
+        "Metodología cualitativa"
+      ]
+    },
+    {
+      "686d5e4c5537f81cedafb5dc": [
+        "Políticas de igualdad"
+      ]
+    },
+    {
+      "686d5e4c5537f81cedafb5dd": [
+        "Historia de las mujeres"
+      ]
+    },
+    {
+      "686d5e4c5537f81cedafb5de": [
+        "Teoría queer"
+      ]
+    },
+    {
+      "686d5e4c5537f81cedafb5df": [
+        "Derechos reproductivos"
+      ]
+    },
+    {
+      "686d5e4c5537f81cedafb5e0": [
+        "Comunicación inclusiva"
+      ]
+    },
+    {
+      "686d5e4c5537f81cedafb5e1": [
+        "Interseccionalidad"
+      ]
+    },
+    {
+      "686d5e4c5537f81cedafb5e2": [
+        "Investigación participativa"
+      ]
+    },
+    {
+      "686d5e4c5537f81cedafb5e3": [
+        "Ética en género"
+      ]
+    }
+  ],
+  "userId": "686d4df3b6f71aaaccb05863",
+  "createdAt": {
+    "$date": "2025-07-08T18:07:08.197Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-08T18:07:08.197Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686d5e4c71a89558b4906ea6"
+  },
+  "titleCode": "27",
+  "universities": [
+    "Universidad de Salamanca",
+    "Universitat de València (Estudi General)"
+  ],
+  "centers": [
+    "Facultad de Filología",
+    "Facultad de Filología, Traducción y Comunicación"
+  ],
+  "name": "Grado en Filología, estudios clásicos, traducción y lingüística",
+  "academicLevel": "Grado",
+  "branch": "Artes y Humanidades",
+  "academicField": "Filología, estudios clásicos, traducción y lingüística",
+  "status": "Activo",
+  "yearDelivery": 2023,
+  "totalCredits": 240,
+  "distributedCredits": {
+    "Básicos": 60,
+    "Optativa": 30,
+    "Obligatoria": 144,
+    "Trabajo Fin de Carrera": 6
+  },
+  "skills": [
+    "686d5e4c5537f81cedafb5e5",
+    "686d5e4c5537f81cedafb5e6",
+    "686d5e4c5537f81cedafb5e7",
+    "686d5e4c5537f81cedafb5e8",
+    "686d5e4c5537f81cedafb5e9",
+    "686d5e4c5537f81cedafb5ea",
+    "686d5e4c5537f81cedafb5eb",
+    "686d5e4c5537f81cedafb5ec",
+    "686d5e4c5537f81cedafb5ed",
+    "686d5e4c5537f81cedafb5ee"
+  ],
+  "learningOutcomes": [
+    {
+      "686d5e4c5537f81cedafb5f0": [
+        "Lingüística teórica"
+      ]
+    },
+    {
+      "686d5e4c5537f81cedafb5f1": [
+        "Literatura clásica"
+      ]
+    },
+    {
+      "686d5e4c5537f81cedafb5f2": [
+        "Traducción especializada"
+      ]
+    },
+    {
+      "686d5e4c5537f81cedafb5f3": [
+        "Didáctica de lenguas"
+      ]
+    },
+    {
+      "686d5e4c5537f81cedafb5f4": [
+        "Fonética y fonología"
+      ]
+    },
+    {
+      "686d5e4c5537f81cedafb5f5": [
+        "Terminología"
+      ]
+    },
+    {
+      "686d5e4c5537f81cedafb5f6": [
+        "Crítica literaria"
+      ]
+    },
+    {
+      "686d5e4c5537f81cedafb5f7": [
+        "Lexicografía"
+      ]
+    },
+    {
+      "686d5e4c5537f81cedafb5f8": [
+        "Corpus lingüísticos"
+      ]
+    },
+    {
+      "686d5e4c5537f81cedafb5f9": [
+        "Semántica"
+      ]
+    }
+  ],
+  "userId": "686d4df3b6f71aaaccb05863",
+  "createdAt": {
+    "$date": "2025-07-08T18:07:08.213Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-08T18:07:08.213Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686d5e4c71a89558b4906ea8"
+  },
+  "titleCode": "28",
+  "universities": [
+    "Universidad de Sevilla",
+    "Universidad de Alicante"
+  ],
+  "centers": [
+    "Facultad de Enfermería, Fisioterapia y Podología",
+    "Facultad de Enfermería y Podología"
+  ],
+  "name": "Máster Universitario en Fisioterapia, podología, nutrición y dietética, terapia ocupacional, óptica y optometría y logopedia",
+  "academicLevel": "Máster",
+  "branch": "Ciencias de la Salud",
+  "academicField": "Fisioterapia, podología, nutrición y dietética, terapia ocupacional, óptica y optometría y logopedia",
+  "status": "Activo",
+  "yearDelivery": 2022,
+  "totalCredits": 60,
+  "distributedCredits": {
+    "Básicos": 12,
+    "Optativa": 6,
+    "Obligatoria": 30,
+    "Trabajo Fin de Carrera": 12
+  },
+  "skills": [
+    "686d5e4c5537f81cedafb5fb",
+    "686d5e4c5537f81cedafb5fc",
+    "686d5e4c5537f81cedafb5fd",
+    "686d5e4c5537f81cedafb5fe",
+    "686d5e4c5537f81cedafb5ff",
+    "686d5e4c5537f81cedafb600",
+    "686d5e4c5537f81cedafb601",
+    "686d5e4c5537f81cedafb602",
+    "686d5e4c5537f81cedafb603",
+    "686d5e4c5537f81cedafb604"
+  ],
+  "learningOutcomes": [
+    {
+      "686d5e4c5537f81cedafb606": [
+        "Valoración funcional"
+      ]
+    },
+    {
+      "686d5e4c5537f81cedafb607": [
+        "Intervención podológica"
+      ]
+    },
+    {
+      "686d5e4c5537f81cedafb608": [
+        "Asesoría nutricional"
+      ]
+    },
+    {
+      "686d5e4c5537f81cedafb609": [
+        "Terapia ocupacional"
+      ]
+    },
+    {
+      "686d5e4c5537f81cedafb60a": [
+        "Rehabilitación visual"
+      ]
+    },
+    {
+      "686d5e4c5537f81cedafb60b": [
+        "Logopedia clínica"
+      ]
+    },
+    {
+      "686d5e4c5537f81cedafb60c": [
+        "Biomecánica"
+      ]
+    },
+    {
+      "686d5e4c5537f81cedafb60d": [
+        "Nutrición deportiva"
+      ]
+    },
+    {
+      "686d5e4c5537f81cedafb60e": [
+        "Ortopodología"
+      ]
+    },
+    {
+      "686d5e4c5537f81cedafb60f": [
+        "Comunicación terapéutica"
+      ]
+    }
+  ],
+  "userId": "686d4df3b6f71aaaccb05863",
+  "createdAt": {
+    "$date": "2025-07-08T18:07:08.230Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-08T18:07:08.230Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686d5e4c71a89558b4906eaa"
+  },
+  "titleCode": "29",
+  "universities": [
+    "Universidad de Barcelona",
+    "Universidad de Burgos"
+  ],
+  "centers": [
+    "Facultad de Información y Medios Audiovisuales",
+    "Centro de Innovación y Tecnlogía en Videojuegos y Comunicación Audiovisual (ITACA)"
+  ],
+  "name": "Grado en Industrias Culturales: diseño, animación, cinematografía y producción audiovisual",
+  "academicLevel": "Grado",
+  "branch": "Artes y Humanidades",
+  "academicField": "Industrias Culturales: diseño, animación, cinematografía y producción audiovisual",
+  "status": "Activo",
+  "yearDelivery": 2023,
+  "totalCredits": 240,
+  "distributedCredits": {
+    "Básicos": 60,
+    "Optativa": 30,
+    "Obligatoria": 144,
+    "Trabajo Fin de Carrera": 6
+  },
+  "skills": [
+    "686d5e4c5537f81cedafb611",
+    "686d5e4c5537f81cedafb612",
+    "686d5e4c5537f81cedafb613",
+    "686d5e4c5537f81cedafb614",
+    "686d5e4c5537f81cedafb615",
+    "686d5e4c5537f81cedafb616",
+    "686d5e4c5537f81cedafb617",
+    "686d5e4c5537f81cedafb618",
+    "686d5e4c5537f81cedafb619",
+    "686d5e4c5537f81cedafb61a"
+  ],
+  "learningOutcomes": [
+    {
+      "686d5e4c5537f81cedafb61c": [
+        "Diseño gráfico"
+      ]
+    },
+    {
+      "686d5e4c5537f81cedafb61d": [
+        "Animación 2D y 3D"
+      ]
+    },
+    {
+      "686d5e4c5537f81cedafb61e": [
+        "Dirección cinematográfica"
+      ]
+    },
+    {
+      "686d5e4c5537f81cedafb61f": [
+        "Producción de vídeo"
+      ]
+    },
+    {
+      "686d5e4c5537f81cedafb620": [
+        "Edición y postproducción"
+      ]
+    },
+    {
+      "686d5e4c5537f81cedafb621": [
+        "Guion audiovisual"
+      ]
+    },
+    {
+      "686d5e4c5537f81cedafb622": [
+        "Diseño de sonido"
+      ]
+    },
+    {
+      "686d5e4c5537f81cedafb623": [
+        "Arte digital"
+      ]
+    },
+    {
+      "686d5e4c5537f81cedafb624": [
+        "Realidad virtual y aumentada"
+      ]
+    },
+    {
+      "686d5e4c5537f81cedafb625": [
+        "Comunicación visual"
+      ]
+    }
+  ],
+  "userId": "686d4df3b6f71aaaccb05863",
+  "createdAt": {
+    "$date": "2025-07-08T18:07:08.249Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-08T18:07:08.249Z"
+  },
+  "__v": 0
+}]
