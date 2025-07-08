@@ -1,0 +1,18 @@
+[submodule "subjects"]
+	path = subjects
+	url = https://github.com/AnaOstio/tfg_subjects
+[submodule "title_memories"]
+	path = title_memories
+	url = https://github.com/AnaOstio/tfg_memories_titles
+[submodule "skills_outcomes"]
+	path = skills_outcomes
+	url = https://github.com/AnaOstio/tfg_skills_learning_outcomes
+[submodule "users"]
+	path = users
+	url = https://github.com/AnaOstio/tfg_users
+[submodule "client"]
+	path = client
+	url = https://github.com/AnaOstio/tfg_frontend
+[submodule "model"]
+	path = model
+	url = https://github.com/AnaOstio/tfg_scraper
