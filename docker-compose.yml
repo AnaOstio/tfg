@@ -85,6 +85,18 @@ services:
       - subjects
     networks:
       - my_network
+  
+  model:
+    build: 
+      context: model/
+      dockerfile: Dockerfile
+    container_name: model
+    env_file: 
+      - model/.env
+    depends_on:
+      - mongodb2
+    networks:
+      - my_network
 
 volumes:
   mongodb_data:
